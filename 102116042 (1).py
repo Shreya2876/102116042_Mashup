@@ -99,7 +99,7 @@ def mashup(singer_name, num_videos, duration, outputfilename):
 def main():
     if len(sys.argv) != 5:
         print(
-            "Usage: python 102116124.py <singer_name> <num_videos> <duration> <outputfilename>"
+            "Usage: python 102116042.py <singer_name> <num_videos> <duration> <outputfilename>"
         )
         return
 
